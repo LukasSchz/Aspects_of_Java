@@ -5,8 +5,8 @@ import java.io.Serializable;
 /**
  * Die Klasse Character ist die Vaterklasse fuer Player und Monster, wie auch bei weiteren Klassen.
  *
- * @author Artur Sarkisjan 4571377 Gruppe 10b
- * @author Lukas Schulz 4571351 Gruppe 10b
+ * @author Artur Sarkisjan
+ * @author Lukas Schulz
  *
  * @version 1.0
  */
