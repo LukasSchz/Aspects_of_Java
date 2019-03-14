@@ -5,8 +5,8 @@ import java.util.Scanner;
 /**
  * Die Klasse Level.
  *
- * @author Artur Sarkisjan 4571377 Gruppe 10b
- * @author Lukas Schulz 4571351 Gruppe 10b
+ * @author Artur Sarkisjan
+ * @author Lukas Schulz
  *
  * @version 1.0
  */
